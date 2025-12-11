@@ -1,10 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=qjas0n.qjas0n" />
 
-<!-- DISCORD CARD (rechts) -->
-<div align="right">
-  <img height="330" src="https://lanyard.cnrad.dev/api/123456789012345678?theme=dark&bg=00000000&idleMessage=Probably%20coding...&borderRadius=20px" />
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=520&height=70&duration=3500&color=ff0000&lines=Hey%2C+ich+bin+Jason!;17+Jahre+alt+aus+Deutschland;Willkommen+auf+meinem+GitHub+🚀" />
 </h1>
