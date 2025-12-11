@@ -62,14 +62,3 @@ Falls du mit mir zusammenarbeiten willst, schreib mir gerne:
 📩 **Discord:** *qjas0n*
 
 </div>
-
----
-
-## ☕ Support (optional)
-
-<div align="center">
-  <em>Wenn du willst, kannst du mich hier unterstützen:</em><br><br>
-  <a href="https://ko-fi.com/" target="_blank">
-    <img height="50" src="https://storage.ko-fi.com/cdn/kofi1.png" />
-  </a>
-</div>
