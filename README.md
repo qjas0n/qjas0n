@@ -26,7 +26,7 @@ Ich liebe es, Systeme zu bauen, zu automatisieren und neue Technologien auszupro
 <div align="center">
   
 ### 💻 Sprachen
-<img src="https://skillicons.dev/icons?i=lua,sql,js,html,css,php,nodejs,cpp" />
+<img src="https://skillicons.dev/icons?i=lua,mysql,js,html,css,php,nodejs,cpp" />
 
 ### 🧰 Tools & Umgebungen
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
@@ -59,7 +59,7 @@ Ich liebe es, Systeme zu bauen, zu automatisieren und neue Technologien auszupro
 <div align="center">
   
 Falls du mit mir zusammenarbeiten willst, schreib mir gerne:  
-📩 **E-Mail:** *hier deinen Kontakt einfügen*
+📩 **Discord:** *qjas0n*
 
 </div>
 
