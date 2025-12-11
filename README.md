@@ -17,7 +17,7 @@ Ich liebe es, Systeme zu bauen, zu automatisieren und neue Technologien auszupro
 
 - 🔭 Ich arbeite aktuell an **Scripting- und Webprojekten**
 - 🌱 Momentan lerne ich **C++**
-- ⚡ Fun Fact: Ich lerne schneller, als ich Kaffee trinken kann
+- ⚡ Fun Fact: Der erste Computer-Virus wurde 1986 in Deutschland geschrieben.
 
 ---
 
