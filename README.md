@@ -49,7 +49,7 @@ Ich liebe es, Systeme zu bauen, zu automatisieren und neue Technologien auszupro
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jason/jason/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
