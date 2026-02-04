@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=qjas0n.qjas0n" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=520&height=70&duration=3500&color=ff0000&lines=Hey%2C+ich+bin+Jason!;17+Jahre+alt+aus+Deutschland;Willkommen+auf+meinem+GitHub+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=520&height=70&duration=3500&color=ff0000&lines=Hey%2C+ich+bin+Jason!;18+Jahre+alt+aus+Deutschland;Willkommen+auf+meinem+GitHub+🚀" />
 </h1>
 
 <p align="center">
