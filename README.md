@@ -12,7 +12,7 @@
 
 ## 🚀 Über mich
 
-Hi! Ich bin **Jason**, 17 Jahre alt aus 🇩🇪  
+Hi! Ich bin **Jason**, 18 Jahre alt aus 🇩🇪  
 Ich liebe es, Systeme zu bauen, zu automatisieren und neue Technologien auszuprobieren.
 
 - 🔭 Arbeite aktuell an **Scripting- & Webprojekten**
